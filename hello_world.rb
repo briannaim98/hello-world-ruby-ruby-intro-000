@@ -1,1 +1,1 @@
-puts "go"
+puts "nena""
